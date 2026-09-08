@@ -14,7 +14,7 @@
 <a href="https://github.com/vedantjain-02?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-10-181717?style=for-the-badge&logo=github" alt="Repositories"/>
 </a>
-<a href="https://v0-vedant-jain-1802.vercel.app/">
+<a href="https://vedant-portfolio-1802.lovable.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
