@@ -47,13 +47,13 @@ I'm a **Python Backend Developer** focused on building scalable APIs, AI-powered
 ### 🐍 Languages & Backend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,typescript" />
+<img src="https://skillicons.dev/icons?i=python,fastapi" />
 </p>
 
 ### 🗄️ Databases & Infrastructure
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,git,github" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,git,github" />
 </p>
 
 ### 🤖 AI & Computer Vision
