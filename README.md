@@ -26,133 +26,198 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Python Backend Developer** passionate about building scalable APIs, AI-powered applications, and intelligent backend systems.
+I'm a **Python Backend Developer** focused on building scalable APIs, AI-powered applications, and intelligent backend systems.
 
-```python
-class VedantJain:
+- 🐍 Strong focus on **Python & Backend Development**
+- ⚡ Building REST APIs with **FastAPI**
+- 🗄️ Working with **PostgreSQL, MySQL & MongoDB**
+- 🤖 Exploring **AI, LLMs, RAG & AI Agents**
+- 🧠 Interested in **Scalable Backend Architecture**
+- 🔐 Building secure APIs with **Authentication & JWT**
+- 🚀 Passionate about turning ideas into real-world products
 
-    role = "Python Backend Developer"
+### 🎯 Current Focus
 
-    focus = [
-        "Backend Development",
-        "FastAPI",
-        "REST APIs",
-        "AI / LLM Applications"
-    ]
+**Python Backend → FastAPI → Databases → AI/LLMs → RAG → AI Agents**
 
-    databases = [
-        "PostgreSQL",
-        "MySQL",
-        "MongoDB",
-        "ChromaDB"
-    ]
+---
 
-    currently_learning = [
-        "Advanced Python",
-        "RAG Systems",
-        "AI Agents",
-        "Scalable Backend Architecture"
-    ]
+## ⚡ Tech Stack
 
-    mindset = "Build. Learn. Improve. Repeat. 🚀"
-🔭 What I'm Doing
-🚀 Building AI-powered applications and backend systems
-⚡ Developing REST APIs using Python & FastAPI
-🧠 Exploring RAG, LLMs, AI Agents and intelligent automation
-🗄️ Working with PostgreSQL, SQLAlchemy and vector databases
-🛠️ Turning ideas into real-world working products
-🎯 Growing towards becoming a strong Backend + AI Engineer
-⚡ Tech Stack
-🐍 Languages & Backend
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,typescript" /> </p>
-🗄️ Databases & Infrastructure
-<p align="left"> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,git,github" /> </p>
-🤖 AI & Computer Vision
-<p align="left"> <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" /> </p>
-🔧 Tools & Frameworks
+### 🐍 Languages & Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,typescript" />
+</p>
+
+### 🗄️ Databases & Infrastructure
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,git,github" />
+</p>
+
+### 🤖 AI & Computer Vision
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
+### 🔧 Tools & Frameworks
+
 <p align="left">
 
-SQLAlchemy Alembic LangChain LangGraph
-Ollama ChromaDB Gemini AI JWT REST APIs
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+<img src="https://img.shields.io/badge/Alembic-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge" />
 
 </p>
-🚀 Featured Projects
-<table> <tr> <td width="50%">
-🛒 E-commerce Backend API
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🛒 E-commerce Backend API
 
 Production-style backend API with authentication, database migrations and structured backend architecture.
 
-Tech Stack
+**Tech Stack**
 
-FastAPI PostgreSQL SQLAlchemy
-Alembic JWT
+`FastAPI` `PostgreSQL` `SQLAlchemy`  
+`Alembic` `JWT`
 
-🔗 View Repository
+🔗 [View Repository](https://github.com/vedantjain-02/ecommerce-backend-api)
 
-</td> <td width="50%">
-🤖 RAG Chatbot
+</td>
+
+<td width="50%">
+
+### 🤖 RAG Chatbot
 
 AI-powered RAG chatbot with document retrieval, reranking, web search and authentication.
 
-Tech Stack
+**Tech Stack**
 
-FastAPI LangGraph Ollama
-ChromaDB PostgreSQL
+`FastAPI` `LangGraph` `Ollama`  
+`ChromaDB` `PostgreSQL`
 
-🔗 View Repository
+🔗 [View Repository](https://github.com/vedantjain-02/rag_chatbot)
 
-</td> </tr> <tr> <td width="50%">
-🔍 Product Analyzer AI
+</td>
 
-AI-powered product analysis system that processes images, extracts information and generates intelligent insights.
+</tr>
 
-Tech Stack
+<tr>
 
-FastAPI Streamlit Gemini AI OCR
+<td width="50%">
 
-🔗 View Repository
+### 🔍 Product Analyzer AI
 
-</td> <td width="50%">
-🧠 FaceSync-AI
+AI-powered product analysis system that processes product images, extracts information and generates intelligent insights.
+
+**Tech Stack**
+
+`FastAPI` `Streamlit` `Gemini AI` `OCR`
+
+🔗 [View Repository](https://github.com/vedantjain-02/product-analyzer-ai)
+
+</td>
+
+<td width="50%">
+
+### 🧠 FaceSync-AI
 
 Face recognition based attendance system for automated attendance tracking.
 
-Tech Stack
+**Tech Stack**
 
-FastAPI InsightFace OpenCV
-SQLAlchemy PostgreSQL
+`FastAPI` `InsightFace` `OpenCV`  
+`SQLAlchemy` `PostgreSQL`
 
-🔗 View Repository
+🔗 [View Repository](https://github.com/vedantjain-02/FaceSync-AI)
 
-</td> </tr> </table>
-🧠 What I'm Exploring
-Python Backend
-      │
-      ├── FastAPI
-      ├── REST APIs
-      ├── Authentication
-      └── Database Design
-              │
-              ▼
-        AI / LLM Systems
-              │
-              ├── RAG
-              ├── Vector Search
-              ├── AI Agents
-              └── LLM Applications
-              │
-              ▼
-       Scalable AI Systems 🚀
-📊 GitHub Analytics
-<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=vedantjain-02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantjain-02&layout=compact&theme=tokyonight&hide_border=true" />
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🧠 Areas of Interest
+
+| Area | Technologies |
+|---|---|
+| 🐍 Backend Development | Python, FastAPI, Flask |
+| 🌐 API Development | REST APIs, JWT, Authentication |
+| 🗄️ Databases | PostgreSQL, MySQL, MongoDB |
+| 🤖 AI / LLM | LLMs, Gemini, Ollama |
+| 📚 RAG | LangChain, LangGraph, ChromaDB |
+| 👁️ Computer Vision | OpenCV, InsightFace |
+| 🐳 Development | Docker, Git, GitHub |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=vedantjain-02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantjain-02&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=vedantjain-02&theme=tokyonight&hide_border=true" /> </div>
-🐍 Contribution Activity
-<div align="center"> <img src="https://raw.githubusercontent.com/vedantjain-02/vedantjain-02/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" /> </div>
-🌐 Let's Connect
-<div align="center"> <a href="https://github.com/vedantjain-02"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/vedantjain1802/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://v0-vedant-jain-1802.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </div>
+<img src="https://streak-stats.demolab.com?user=vedantjain-02&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
 <div align="center">
-💭 "Build. Learn. Improve. Repeat."
-<br/> <img src="https://komarev.com/ghpvc/?username=vedantjain-02&style=for-the-badge&color=blueviolet" alt="Profile Views" /> </div> ```
+
+<img src="https://raw.githubusercontent.com/vedantjain-02/vedantjain-02/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/vedantjain-02">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/vedantjain1802/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://v0-vedant-jain-1802.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💭 "Build. Learn. Improve. Repeat."
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=vedantjain-02&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+
+</div>
