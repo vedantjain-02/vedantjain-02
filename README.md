@@ -156,13 +156,13 @@ Face recognition based attendance system for automated attendance tracking.
 
 | Area | Technologies |
 |---|---|
-| 🐍 Backend Development | Python, FastAPI, Flask |
+| 🐍 Backend Development | Python, FastAPI |
 | 🌐 API Development | REST APIs, JWT, Authentication |
 | 🗄️ Databases | PostgreSQL, MySQL, MongoDB |
 | 🤖 AI / LLM | LLMs, Gemini, Ollama |
 | 📚 RAG | LangChain, LangGraph, ChromaDB |
 | 👁️ Computer Vision | OpenCV, InsightFace |
-| 🐳 Development | Docker, Git, GitHub |
+| 🐳 Development | Git, GitHub |
 
 ---
 
@@ -186,7 +186,7 @@ Face recognition based attendance system for automated attendance tracking.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vedantjain-02/vedantjain-02/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/vedantjain-02/vedantjain-02/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
