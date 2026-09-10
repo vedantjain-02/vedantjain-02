@@ -170,7 +170,7 @@ Face recognition based attendance system for automated attendance tracking.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=vedantjain-02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=vedantjain-02&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantjain-02&layout=compact&theme=tokyonight&hide_border=true" />
 
@@ -179,8 +179,6 @@ Face recognition based attendance system for automated attendance tracking.
 <img src="https://streak-stats.demolab.com?user=vedantjain-02&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
 
 ## 🐍 Contribution Activity
 
