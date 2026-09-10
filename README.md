@@ -172,19 +172,19 @@ Face recognition based attendance system for automated attendance tracking.
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vedantjain-02&theme=github_dark"
-  height="180"
+  width="400"
 />
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vedantjain-02&theme=github_dark"
-  height="180"
+  width="400"
 />
 
-<br/><br/>
+<br><br>
 
 <img
   src="https://streak-stats.demolab.com?user=vedantjain-02&theme=tokyonight&hide_border=true"
-  height="180"
+  width="800"
 />
 
 </div>
