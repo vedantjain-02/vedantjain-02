@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Repositories-11-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://v0-vedant-jain-1802.vercel.app/">
+<a href="https://vedant-portfolio-1802.lovable.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
@@ -211,7 +211,7 @@ Face recognition based attendance system for automated attendance tracking.
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://v0-vedant-jain-1802.vercel.app/">
+<a href="https://vedant-portfolio-1802.lovable.app/">
 <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
