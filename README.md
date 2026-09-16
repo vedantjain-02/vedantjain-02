@@ -13,7 +13,7 @@
 </a>
 
 <a href="https://github.com/vedantjain-02?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-11-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Repositories-13-181717?style=for-the-badge&logo=github" />
 </a>
 
 <a href="https://vedant-portfolio-1802.lovable.app/">
